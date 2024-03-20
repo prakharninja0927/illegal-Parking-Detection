@@ -1,0 +1,3 @@
+Download model.weights and yolov4.weights from belowe link and put them in adminResources/models/ folder.
+
+https://drive.google.com/drive/folders/1Dchs5eAZ2Nm6zdyoGGHbY2t-kKfeWNPy?usp=sharing
